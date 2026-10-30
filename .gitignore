@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+
+# Environment & Credentials
+.env
+
+# Datalake raw datasets & checkpoints (large files)
+datalake/raw/
+datalake/.cache/
+datalake/*.json
+datalake/*.jsonl
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+

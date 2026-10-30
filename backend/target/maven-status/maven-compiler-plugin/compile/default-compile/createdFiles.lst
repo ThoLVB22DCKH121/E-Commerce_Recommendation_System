@@ -1,0 +1,5 @@
+com\recsys\repository\ProductRepository.class
+com\recsys\controller\ProductController.class
+com\recsys\service\ProductService.class
+com\recsys\entity\Product.class
+com\recsys\RecsysApplication.class
